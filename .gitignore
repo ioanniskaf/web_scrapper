@@ -1,0 +1,14 @@
+# Editors
+.vscode/
+.idea/
+
+__pycache__/
+
+*.env
+.env
+env/
+
+@output_backup/
+*.xlsx
+geckodriver.log
+main_backup.py
